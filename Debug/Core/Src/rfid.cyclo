@@ -1,0 +1,7 @@
+rfid.c:13:13:delay_us	2
+rfid.c:19:13:preamble	1
+rfid.c:26:13:data_high	1
+rfid.c:33:13:data_low	1
+rfid.c:41:6:rf_transmit	3
+rfid.c:57:6:send_rfid_as_uint32	4
+rfid.c:69:6:send_rfid_as_char	3
